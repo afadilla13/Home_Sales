@@ -1,3 +1,5 @@
+![SparkSQL](https://github.com/afadilla13/Home_Sales/assets/128363337/0591e18e-9edd-453b-995b-ffda4e94b38d)
+
 # Home Sales Analysis with SparkSQL
 
 In this challenge, you'll leverage SparkSQL to extract insights from home sales data. This will involve creating temporary views, partitioning the dataset, caching/un-caching a temporary table, and more.
